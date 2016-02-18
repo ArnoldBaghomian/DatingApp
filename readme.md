@@ -1,5 +1,8 @@
 # MEAN Stack Starter
 
+This is a Dating app created to search for users that have similar interest. The user is able to register, login, bcrypt hashed passwored, create a profile with photo, , edit the profile, search for other users, and wink at them through the notification. 
+
+
 This is a simple template to get started writing MEAN Stack apps.  It includes:
 
 - Express
